@@ -7,6 +7,13 @@ Dual-license template (Apache-2.0 + MIT) for my projects.
 Almost all of this code is AI/LLM-generated. It's best used as a source of
 inspiration for your own AI/LLM efforts rather than as a traditional library.
 
+**This is personal alpha software.** All my GitHub projects should be considered
+experimental. If you want to use them:
+
+- **Pin to a specific commit** — don't track `main`, it changes without warning
+- **Use AI/LLM to adapt** — without AI assistance, these projects are hard to use
+- **Treat as inspiration** — build your own version rather than depending on mine
+
 **Suggestions welcome** — If you have ideas for improvements or changes, I'd be
 delighted to read them and use them as inspiration for my own efforts.
 
