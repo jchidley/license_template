@@ -1,6 +1,26 @@
 # license_template
 
-[Your project description here]
+Dual-license template (Apache-2.0 + MIT) for my projects.
+
+## About This Code
+
+Almost all of this code is AI/LLM-generated. It's best used as a source of
+inspiration for your own AI/LLM efforts rather than as a traditional library.
+
+**Suggestions welcome** — If you have ideas for improvements or changes, I'd be
+delighted to read them and use them as inspiration for my own efforts.
+
+**Why not a library?** These days it's often quicker to use AI/LLM to build your
+own than to integrate traditional libraries. I use command-line tools as my
+interfaces for reasons explained in these posts:
+
+- [CLI over MCP](https://lucumr.pocoo.org/2025/8/18/code-mcps/) — Why command-line
+  tools are better integration points than custom protocols
+- [Build It Yourself](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) —
+  "With our newfound power from agentic coding tools, you can build much of this
+  yourself... AI has the potential to encourage building on fewer dependencies."
+- [Shipping at Inference Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) —
+  On the new workflow of building with AI assistance
 
 ## License
 
