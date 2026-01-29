@@ -18,16 +18,18 @@ experimental. If you want to use them:
 delighted to read them and use them as inspiration for my own efforts.
 
 **Why not a library?** These days it's often quicker to use AI/LLM to build your
-own than to integrate traditional libraries. I use command-line tools as my
-interfaces for reasons explained in these posts:
+own than to integrate traditional libraries. My use of AI/LLM is inspired by
+these people and posts:
 
-- [CLI over MCP](https://lucumr.pocoo.org/2025/8/18/code-mcps/) — Why command-line
-  tools are better integration points than custom protocols
+- [CLI over MCP](https://lucumr.pocoo.org/2025/8/18/code-mcps/) — Armin Ronacher
+  on why command-line tools are better integration points than custom protocols
 - [Build It Yourself](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) —
-  "With our newfound power from agentic coding tools, you can build much of this
-  yourself... AI has the potential to encourage building on fewer dependencies."
+  Armin Ronacher: "With our newfound power from agentic coding tools, you can
+  build much of this yourself..."
 - [Shipping at Inference Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) —
-  On the new workflow of building with AI assistance
+  Peter Steinberger on the new workflow of building with AI assistance
+- [Year in Review 2025](https://mariozechner.at/posts/2025-12-22-year-in-review-2025/) —
+  Mario Zechner on AI-assisted development
 
 **What I use:** Currently Anthropic's Claude Opus, evaluating OpenAI's GPT Codex
 as an alternative.
