@@ -21,6 +21,8 @@ delighted to read them and use them as inspiration for my own efforts.
 own than to integrate traditional libraries. My use of AI/LLM is inspired by
 these people and posts:
 
+- [Simon Willison's Weblog](https://simonwillison.net/) — Essential reading on
+  LLMs, prompt engineering, and building with AI
 - [CLI over MCP](https://lucumr.pocoo.org/2025/8/18/code-mcps/) — Armin Ronacher
   on why command-line tools are better integration points than custom protocols
 - [Build It Yourself](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) —
