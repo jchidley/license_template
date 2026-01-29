@@ -29,6 +29,9 @@ interfaces for reasons explained in these posts:
 - [Shipping at Inference Speed](https://steipete.me/posts/2025/shipping-at-inference-speed) —
   On the new workflow of building with AI assistance
 
+**What I use:** Currently Anthropic's Claude Opus, evaluating OpenAI's GPT Codex
+as an alternative.
+
 ## License
 
 This project is dual-licensed under the terms of both the MIT license and the
