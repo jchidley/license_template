@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/license_template",
+  "decision": "no-change-required",
+  "reviewedCommit": "c37c58499d58cbfe555b459781d79b5903d36b1d",
+  "operation": "inspect",
+  "files": {
+    "README.md": "2a5fd2fd08fd8dd1bce871bc74fd0449e10efd4eda41f6beab5b4b25f319957a"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Current reviewed guidance scope requires no repository-local change.",
+  "evidenceSummary": [
+    "Retain no-local-surface: complete four-file tree and full README establish dual-licence content template, not an operational agent template. AI provenance/model mentions are descriptive; do not alter model configuration or licence terms from them.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Prior semantic findings retained as historical evidence, not independently re-certified by this verification pass."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.214Z",
+  "publicationApproved": false
+}
